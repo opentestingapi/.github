@@ -1,5 +1,5 @@
-Website: https://opentestingapi.github.io/
+Website: <a href="https://opentestingapi.github.io/" target="_blank">https://opentestingapi.github.io/</a>
 
-Backlog: https://github.com/opentestingapi/backlog/issues
+Backlog: <a href="https://github.com/opentestingapi/backlog/issues" target="_blank">https://github.com/opentestingapi/backlog/issues</a>
 
-Reference Implementation: https://github.com/opentestingapi/impl_java
+Reference Implementation: <a href="https://github.com/opentestingapi/impl_java" target="_blank">https://github.com/opentestingapi/impl_java</a>
