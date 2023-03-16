@@ -7,4 +7,5 @@ Reference Implementation: <a href="https://github.com/opentestingapi/impl_java" 
 JUnit Integration: <a href="https://github.com/opentestingapi/impl_java_testcontainers" target="_blank">https://github.com/opentestingapi/impl_java_testcontainers</a>
 
 **Articles**
+
 Introduction: <a href="https://medium.com/twodigits/opentestingapi-the-new-declarative-and-continuous-way-to-test-applications-8706218242ba" target="_blank">https://medium.com/twodigits/opentestingapi-the-new-declarative-and-continuous-way-to-test-applications-8706218242ba</a>
