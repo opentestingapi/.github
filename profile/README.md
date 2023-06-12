@@ -11,3 +11,5 @@ JUnit Integration: <a href="https://github.com/opentestingapi/impl_java_testcont
 **Articles**
 
 Introduction: <a href="https://medium.com/twodigits/opentestingapi-the-new-declarative-and-continuous-way-to-test-applications-8706218242ba" target="_blank">https://medium.com/twodigits/opentestingapi-the-new-declarative-and-continuous-way-to-test-applications-8706218242ba</a>
+
+Pipeline Integration: <a href="https://medium.com/@robertdiers/opentestingapi-part-2-pipeline-integration-and-test-automation-for-various-environments-a566bff58a5d" target="_blank">https://medium.com/@robertdiers/opentestingapi-part-2-pipeline-integration-and-test-automation-for-various-environments-a566bff58a5d</a>
