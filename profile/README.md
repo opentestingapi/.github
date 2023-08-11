@@ -4,7 +4,7 @@ Backlog: <a href="https://github.com/opentestingapi/backlog/issues" target="_bla
 
 Reference Implementation: <a href="https://github.com/opentestingapi/impl_java" target="_blank">https://github.com/opentestingapi/impl_java</a>
 
-Graphical Test Case Editor: <a href="https://github.com/opentestingapi/impl_editor" target="_blank">https://github.com/opentestingapi/impl_editor</a>
+Graphical Test Case Editor: <a href="https://github.com/opentestingapi/impl_editor" target="_blank">https://github.com/opentestingapi/impl_editor</a> (released soon)
 
 JUnit Integration: <a href="https://github.com/opentestingapi/impl_java_testcontainers" target="_blank">https://github.com/opentestingapi/impl_java_testcontainers</a>
 
